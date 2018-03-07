@@ -10,7 +10,7 @@ Sodexo est une entreprise qui travaille en __collaboration__ avec  l’entrepris
 
 
 #### LA PROGRAMMATION :
-Un homme nommé papa nous a ensuite expliqué la 5G et toute les nouvelles choses que cela allait nous apporter. Puis de suite il nous a parlé de __la programmation___, de son utilité, et de ses différents langages. Il nous a fait d’ailleurs essayer un, _Python_ sur lequel nous avons programmé quelques lignes. 
+Un homme nommé papa nous a ensuite expliqué la 5G et toute les nouvelles choses que cela allait nous apporter. Puis de suite il nous a parlé de __la programmation__, de son utilité, et de ses différents langages. Il nous a fait d’ailleurs essayer un, _Python_ sur lequel nous avons programmé quelques lignes. 
 #### LES CUISINES :
 De bonne heure le matin, nous avons visité les cuisines de l’entreprise. Nous avons découvert les frigos, les salles de préparations, etc. Nous avons pu observer les chefs qui préparaient le menu du jour.  
 #### LE MARKETING :
