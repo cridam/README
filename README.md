@@ -4,3 +4,5 @@
 [agile kanban](https://fr.atlassian.com/agile/kanban)
 [markdown](https://fr.wikipedia.org/wiki/Markdown)
 
+et pour generer un pdf !
+http://www.markdowntopdf.com/
