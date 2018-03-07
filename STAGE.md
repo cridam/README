@@ -1,5 +1,6 @@
-Présentation : [Nokia](https://www.nokia.com/fr_int) est une entreprise de télécommunication et de recherche Finlandaise. Elle recrute plus de 3 800 salariés sur le domaine de Paris-Saclay qui fait d’ailleurs 36 Ha. Nokia développe la 5G, fait de la programmation,
-test différents outils technologique et innove de nouveaux produits de technologie.    
+Présentation : [Nokia](https://www.nokia.com/fr_int) est une entreprise de télécommunication et de recherche Finlandaise. 
+Elle recrute plus de 3 800 salariés sur le domaine de Paris-Saclay qui fait d’ailleurs 36 Ha. Nokia développe la 5G, fait
+de la programmation, test différents outils technologique et innove de nouveaux produits de technologie.    
  Déroulé des journées : 
 La première journée j’ai rencontré une femme chargé de la communication interne de l’entreprise. Son « job » était 
 d’informer les salariés des actualités de Nokia et de s’occuper de l’organisation de certains événements. 
