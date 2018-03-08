@@ -6,3 +6,6 @@
 [langages de programmations](https://www.tiobe.com/tiobe-index/)
 et pour generer un pdf !
 http://www.markdowntopdf.com/
+
+et pour s'entrainer dans les langages
+https://repl.it/repls/SilkyLinedGames
