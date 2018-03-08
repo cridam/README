@@ -9,3 +9,6 @@ http://www.markdowntopdf.com/
 
 et pour s'entrainer dans les langages
 https://repl.it/repls/SilkyLinedGames
+
+et pour se lancer des défis entre developpeurs et apprendre à coder 
+https://codefights.com/
