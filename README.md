@@ -6,3 +6,6 @@
 
 et pour generer un pdf !
 http://www.markdowntopdf.com/
+
+et pour s'entrainer sur tous les langages en ligne
+https://repl.it/repls/SilkyLinedGames
